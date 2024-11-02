@@ -7,6 +7,8 @@ I'm an indie software engineering and AI specialist working on mathematics beyon
 
 ![X followers](https://img.shields.io/x/followers/moalziyad?color=black&style=for-the-badge&logo=x&logoColor=white)
 
+[![X followers](https://img.shields.io/badge/X%20Followers-0-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moalziyad)
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
