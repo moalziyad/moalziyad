@@ -4,17 +4,9 @@
 
 I'm an indie software engineering and AI specialist working on mathematics beyond AI and innovated Machine & Deep learning solution. All coding projects are built from the ground up,from planning and designing all the way to solving real-life problems with code.
 
-![GitHub followers](https://img.shields.io/github/followers/moalziyad?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/x?style=social)
+![X followers](https://img.shields.io/x/followers/moalziyad?color=black&style=for-the-badge&logo=x&logoColor=white)
 
-![GitHub followers](https://img.shields.io/badge/Followers-0-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![X](https://img.shields.io/github/followers/moalziyad?color=black&style=for-the-badge&logo=x&logoColor=white)
-
-![X followers](https://img.shields.io/github/followers/moalziyad?color=%23000000&style=for-the-badge&logo=x&logoColor=white)
-
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&style=for-the-badge&logo=X&logoColor=white)
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
