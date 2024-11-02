@@ -1,6 +1,6 @@
 # 🏄‍♂️ MOHAMMED S. ALZIYAD
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Junior (Developer/AI/QC)`**
 
 I'm an indie software engineering and AI specialist working on mathematics beyond AI and innovated Machine & Deep learning solution. All coding projects are built from the ground up,from planning and designing all the way to solving real-life problems with code.
 
