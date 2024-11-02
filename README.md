@@ -12,6 +12,7 @@ I'm an indie software engineering and AI specialist working on mathematics beyon
 
 ![X](https://img.shields.io/github/followers/moalziyad?color=black&style=for-the-badge&logo=x&logoColor=white)
 
+![X followers](https://img.shields.io/github/followers/moalziyad?color=%23000000&style=for-the-badge&logo=x&logoColor=white)
 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&style=for-the-badge&logo=X&logoColor=white)
 
