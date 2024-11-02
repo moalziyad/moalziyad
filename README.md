@@ -10,7 +10,8 @@ I'm an indie software engineering and AI specialist working on mathematics beyon
 
 ![GitHub followers](https://img.shields.io/badge/Followers-0-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![X](https://img.shields.io/github/followers/x?style=social)
+![X followers](https://img.shields.io/github/followers/moalziyad?color=%23000000&style=for-the-badge&logo=x&logoColor=white)
+
 
    <p align="left">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
