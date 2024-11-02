@@ -3,7 +3,10 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm an indie software engineering and AI specialist working on mathematics beyond AI and innovated Machine & Deep learning solution. All coding projects are built from the ground up,from planning and designing all the way to solving real-life problems with code.
+
 ![GitHub followers](https://img.shields.io/github/followers/moalziyad?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/x?style=social)
 
    <p align="left">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
