@@ -5,8 +5,8 @@
 I'm an indie software engineering and AI specialist working on mathematics beyond AI and innovated Machine & Deep learning solution. All coding projects are built from the ground up,from planning and designing all the way to solving real-life problems with code.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/moalziyad](https://www.linkedin.com/in/moalziyad/))
-
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/moalziyad)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/moalziyad/)
 
 ---
 
